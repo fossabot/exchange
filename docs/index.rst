@@ -14,17 +14,6 @@ User Guide
    :maxdepth: 2
 
    whatsnew
-   accounts/index
-   discovery/index
-   understandmetadata/index
-   services/index
-   documents/index
-   layers/index
-   maps/index
-   metadata/index
-   editing/index
-   styles/index
-   createlayers/index
-   analysis/index
-   admin/index
+   guide/index
    support/index
+
