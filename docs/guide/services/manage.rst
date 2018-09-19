@@ -1,5 +1,5 @@
-Managing Remote Services
-========================
+Manage Remote Services
+======================
 
 Edit Service Metadata
 ^^^^^^^^^^^^^^^^^^^^^

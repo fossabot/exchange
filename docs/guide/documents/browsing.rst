@@ -1,5 +1,5 @@
-Browsing documents
-==================
+Browse Documents
+================
 
 Finding documents that other Exchange users have added is quick and easy. As long as you have the proper permissions, you are able to view, download and edit any document you see in Exchange.
 

@@ -1,5 +1,5 @@
-Adding Remote Services
-======================
+Add Remote Services
+===================
 
 Exchange users are able to nominate external services, while those with administrator permissions, or those belonging to the csw_manager group, can then “publish” the layer so that it is available to all users.
 

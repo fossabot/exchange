@@ -9,6 +9,11 @@ User Guide
 
    accounts/index
    discovery/index
-   metadata/index
+   understanding_metadata/index
    services/index
    documents/index
+   layers/index
+   maps/index
+   metadata/index
+   editing/index
+   versioning/index

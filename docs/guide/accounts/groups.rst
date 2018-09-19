@@ -1,5 +1,5 @@
-Managing Groups
-===============
+Manage Groups
+=============
 
 Registered Exchange users can create and be added to groups. Groups are a great way to organize and manage your team. You can see what action has been taken by the group and its members through the activity feed.
 

@@ -1,5 +1,5 @@
-Uploading documents
-===================
+Upload Documents
+================
 
 1. Select the :guilabel:`Data` link on the Exchange toolbar, and click **Upload Document** in the drop-down menu.
 

@@ -1,14 +1,11 @@
-Understanding Metadata
-======================
+Working with Metadata
+=====================
 
-When you add or edit content within Exchange, you are given an opportunity to add or edit the metadata...but what is metadata? Why is it so important?
+In Exchange, metadata can easily be edited for all layers, maps and documents. Keeping metadata current and thorough is important in maintaining data relevance, quality and accuracy. The more information provided in the metadata section, the more other users will understand the value of the dataset.
 
-Metadata is what provides information on the identification, extent, quality, ownership, temporal and spatial aspects, content, provenance, maintenance, and other properties of digital geographic data and services.
+As you learned in Working with Layers, some metadata is added when :ref:`importing <uploadlayers>` a layer. The basics, such as the title, abstract and category are add by the user, while information such as the projection system, bounding box coordinates, and reference links are automatically created by Exchange, and are unable to be edited by users. Additional information is added through editing the metadata.
 
-Simply put, it is a file that represents the who, what, where, when, why and how of a geospatial record. Without it, you have no way of knowing the origin or validity of your data.  It describes the dataset in a way similar to how a book cover describes a book.
-  
 .. toctree::
    :maxdepth: 1
 
-   existing
-   populating
+   metadata
