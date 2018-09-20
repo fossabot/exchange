@@ -14,7 +14,7 @@ What's Inside
    :maxdepth: 2
 
    whatsnew
-   guide/index
+   using_exchange/index
    administration/index
    support/index
 
