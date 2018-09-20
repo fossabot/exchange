@@ -17,3 +17,6 @@ User Guide
    metadata/index
    editing/index
    versioning/index
+   styling/index
+   create_layer/index
+   analysis/index

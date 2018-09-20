@@ -15,5 +15,6 @@ What's Inside
 
    whatsnew
    guide/index
+   administration/index
    support/index
 

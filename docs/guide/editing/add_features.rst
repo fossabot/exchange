@@ -1,3 +1,5 @@
+.. _add:
+
 Add Features to a Layer
 =======================
 
